@@ -1,0 +1,15 @@
+{
+  "name": "05_netstrada_coding_challenge_01",
+  "version": "1.0.0",
+  "description": "",
+  "main": "netstrada_challenge_01.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^28.1.1"
+  }
+}
