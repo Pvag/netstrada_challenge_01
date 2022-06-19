@@ -11,5 +11,8 @@
   "license": "ISC",
   "devDependencies": {
     "jest": "^28.1.1"
+  },
+  "dependencies": {
+    "gpu.js": "^2.15.2"
   }
 }
